@@ -1,0 +1,8 @@
+{
+    "require": {
+        "laravel/laravel": "6.18.8",
+      "ext-mysql_xdevapi": "*",
+      "ext-json": "*",
+      "ext-gd": "*"
+    }
+}
